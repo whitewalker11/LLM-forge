@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+# Add other dependencies your backend uses (e.g., torch, transformers, etc.)
+# transformers
+# torch

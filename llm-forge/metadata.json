@@ -1,0 +1,5 @@
+{
+  "name": "LLM Forge",
+  "description": "A professional local LLM experimentation platform with RAG capabilities and multi-model support.",
+  "requestFramePermissions": []
+}
